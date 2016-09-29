@@ -1,0 +1,12 @@
+[ 2016-09-24T16:28:54+08:00 ] 127.0.0.1 /shop/index.php/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002013s ]
+ERR: 无法加载模块:Login
+
+[ 2016-09-24T23:59:54+08:00 ] 127.0.0.1 /shop/index.php/shop/index.php/Admin/CategoryshowOperator/name/show.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001953s ]
+ERR: 无法加载模块:Shop
+

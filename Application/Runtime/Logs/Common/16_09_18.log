@@ -1,0 +1,36 @@
+[ 2016-09-18T12:49:11+08:00 ] 127.0.0.1 /shop/index.php/styles/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002107s ]
+ERR: 无法加载模块:Styles
+
+[ 2016-09-18T12:49:11+08:00 ] 127.0.0.1 /shop/index.php/styles/general.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001706s ]
+ERR: 无法加载模块:Styles
+
+[ 2016-09-18T12:49:14+08:00 ] 127.0.0.1 /shop/index.php/styles/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002636s ]
+ERR: 无法加载模块:Styles
+
+[ 2016-09-18T12:49:14+08:00 ] 127.0.0.1 /shop/index.php/styles/general.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003011s ]
+ERR: 无法加载模块:Styles
+
+[ 2016-09-18T12:49:49+08:00 ] 127.0.0.1 /shop/index.php/styles/general.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000200s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002715s ]
+ERR: 无法加载模块:Styles
+
+[ 2016-09-18T12:49:49+08:00 ] 127.0.0.1 /shop/index.php/styles/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002619s ]
+ERR: 无法加载模块:Styles
+

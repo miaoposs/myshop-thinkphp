@@ -1,0 +1,1810 @@
+[ 2016-09-12T14:56:30+08:00 ] 127.0.0.1 /shop/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005178s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003333s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003502s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000956s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001152s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032615s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032773s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001744s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001865s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003077s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003226s ]
+
+[ 2016-09-12T15:12:58+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002810s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003093s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003283s ]
+NOTIC: [2] include_once(/admin/templates/login.html): failed to open stream: No such file or directory E:\phpWebs\shop\Application\Admin\Controller\LoginController.class.php 第 12 行.
+NOTIC: [2] include_once(): Failed opening '/admin/templates/login.html' for inclusion (include_path='.;C:\php\pear') E:\phpWebs\shop\Application\Admin\Controller\LoginController.class.php 第 12 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003187s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003377s ]
+
+[ 2016-09-12T15:19:06+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004699s ]
+NOTIC: [8] Use of undefined constant ADMIN_TEMP - assumed 'ADMIN_TEMP' E:\phpWebs\shop\Application\Admin\Controller\LoginController.class.php 第 12 行.
+NOTIC: [2] include_once(ADMIN_TEMP/login.html): failed to open stream: No such file or directory E:\phpWebs\shop\Application\Admin\Controller\LoginController.class.php 第 12 行.
+NOTIC: [2] include_once(): Failed opening 'ADMIN_TEMP/login.html' for inclusion (include_path='.;C:\php\pear') E:\phpWebs\shop\Application\Admin\Controller\LoginController.class.php 第 12 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002722s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002867s ]
+
+[ 2016-09-12T15:19:52+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001777s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003538s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003770s ]
+NOTIC: [8] Use of undefined constant ADMIN_TEMP - assumed 'ADMIN_TEMP' E:\phpWebs\shop\Application\Admin\Controller\LoginController.class.php 第 12 行.
+NOTIC: [2] include_once(ADMIN_TEMP/login.html): failed to open stream: No such file or directory E:\phpWebs\shop\Application\Admin\Controller\LoginController.class.php 第 12 行.
+NOTIC: [2] include_once(): Failed opening 'ADMIN_TEMP/login.html' for inclusion (include_path='.;C:\php\pear') E:\phpWebs\shop\Application\Admin\Controller\LoginController.class.php 第 12 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003473s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003635s ]
+
+[ 2016-09-12T15:26:55+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002427s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003618s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003808s ]
+
+[ 2016-09-12T15:31:55+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001979s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002805s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002971s ]
+
+[ 2016-09-12T15:31:57+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002244s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002431s ]
+
+[ 2016-09-12T15:34:03+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001787s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002860s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003014s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000125s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000284s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029791s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030020s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003309s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003461s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002887s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003020s ]
+
+[ 2016-09-12T15:34:03+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/styles/general.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002669s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002895s ]
+ERR: 非法操作:styles
+
+[ 2016-09-12T15:34:03+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/styles/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002724s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005614s ]
+ERR: 非法操作:styles
+
+[ 2016-09-12T15:34:03+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/images/login.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002280s ]
+
+[ 2016-09-12T15:34:03+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/privilege.php?act=captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001331s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006220s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006479s ]
+ERR: 非法操作:privilege.php
+
+[ 2016-09-12T15:45:49+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002242s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003062s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003281s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000121s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000311s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026854s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027029s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001561s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001678s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002490s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002617s ]
+
+[ 2016-09-12T15:45:49+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/styles/general.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002517s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002737s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002968s ]
+ERR: 非法操作:styles
+
+[ 2016-09-12T15:45:49+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/styles/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003227s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004540s ]
+ERR: 非法操作:styles
+
+[ 2016-09-12T15:45:49+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/images/login.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002037s ]
+
+[ 2016-09-12T15:45:49+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/privilege.php?act=captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003613s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001904s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002065s ]
+ERR: 非法操作:privilege.php
+
+[ 2016-09-12T15:45:55+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/styles/general.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002461s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004219s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004445s ]
+ERR: 非法操作:styles
+
+[ 2016-09-12T15:45:55+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/styles/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006490s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006684s ]
+ERR: 非法操作:styles
+
+[ 2016-09-12T15:46:37+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001459s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002655s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002834s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000112s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000264s ]
+NOTIC: [8] Undefined variable: username E:\phpWebs\shop\Application\Runtime\Cache\admin\0dfec61edd66f450033aa87c28a760f4.php 第 35 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026329s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026510s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002420s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002590s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002978s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003129s ]
+
+[ 2016-09-12T15:47:58+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001869s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002849s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000118s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000278s ]
+NOTIC: [8] Undefined variable: username E:\phpWebs\shop\Application\Runtime\Cache\admin\0dfec61edd66f450033aa87c28a760f4.php 第 35 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027466s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027668s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001687s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001836s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003662s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003819s ]
+
+[ 2016-09-12T15:49:49+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001964s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005609s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005839s ]
+
+[ 2016-09-12T15:50:19+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001680s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002781s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002931s ]
+
+[ 2016-09-12T15:50:31+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006007s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002853s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003012s ]
+
+[ 2016-09-12T15:50:51+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002072s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004525s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000116s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000275s ]
+NOTIC: [8] Undefined variable: username E:\phpWebs\shop\Application\Runtime\Cache\admin\0dfec61edd66f450033aa87c28a760f4.php 第 35 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031466s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031613s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001600s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001718s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002558s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002680s ]
+
+[ 2016-09-12T15:50:51+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/Public/css/general.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001422s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003515s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003728s ]
+ERR: 非法操作:Public
+
+[ 2016-09-12T15:50:51+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/Public/css/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002654s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003128s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003331s ]
+ERR: 非法操作:Public
+
+[ 2016-09-12T15:51:26+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001796s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001984s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002157s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000181s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000418s ]
+NOTIC: [8] Undefined variable: username E:\phpWebs\shop\Application\Runtime\Cache\admin\0dfec61edd66f450033aa87c28a760f4.php 第 35 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030703s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030885s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001936s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002094s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002555s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002686s ]
+
+[ 2016-09-12T15:51:26+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/Public/images/login.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001777s ]
+
+[ 2016-09-12T15:51:26+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/Public/css/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002957s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002975s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003196s ]
+ERR: 非法操作:Public
+
+[ 2016-09-12T15:51:26+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/Public/css/general.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003225s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003224s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003411s ]
+ERR: 非法操作:Public
+
+[ 2016-09-12T15:51:27+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/Public/images/login.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003005s ]
+
+[ 2016-09-12T15:52:43+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001673s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002870s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003036s ]
+
+[ 2016-09-12T15:53:57+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001641s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002843s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003031s ]
+
+[ 2016-09-12T15:54:35+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001780s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002971s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003135s ]
+
+[ 2016-09-12T15:54:52+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002825s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002845s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000113s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000274s ]
+NOTIC: [8] Undefined variable: username E:\phpWebs\shop\Application\Runtime\Cache\admin\0dfec61edd66f450033aa87c28a760f4.php 第 35 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026241s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026445s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002194s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002370s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002913s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003083s ]
+
+[ 2016-09-12T15:54:52+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/Public/css/general.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001396s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003086s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003324s ]
+ERR: 非法操作:Public
+
+[ 2016-09-12T15:54:52+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/Public/css/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001999s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002986s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003325s ]
+ERR: 非法操作:Public
+
+[ 2016-09-12T15:54:52+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/Public/images/login.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002332s ]
+
+[ 2016-09-12T15:56:44+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001894s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002807s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002960s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000113s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000265s ]
+NOTIC: [8] Undefined variable: username E:\phpWebs\shop\Application\Runtime\Cache\admin\0dfec61edd66f450033aa87c28a760f4.php 第 35 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027219s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027412s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002482s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002650s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002773s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002922s ]
+
+[ 2016-09-12T15:56:44+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/Public/css/general.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002897s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002790s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002996s ]
+ERR: 非法操作:Public
+
+[ 2016-09-12T15:56:44+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/Public/css/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001847s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003682s ]
+ERR: 非法操作:Public
+
+[ 2016-09-12T15:56:57+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000179s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002815s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003834s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000115s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000280s ]
+NOTIC: [8] Undefined variable: username E:\phpWebs\shop\Application\Runtime\Cache\admin\0dfec61edd66f450033aa87c28a760f4.php 第 35 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029917s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030070s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001648s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001767s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002655s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002782s ]
+
+[ 2016-09-12T15:56:57+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/Public/css/general.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001694s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006252s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006484s ]
+ERR: 非法操作:Public
+
+[ 2016-09-12T15:56:57+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/Public/css/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002608s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003585s ]
+ERR: 非法操作:Public
+
+[ 2016-09-12T16:01:02+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001683s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003204s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000136s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000304s ]
+NOTIC: [8] Undefined variable: username E:\phpWebs\shop\Application\Runtime\Cache\admin\0dfec61edd66f450033aa87c28a760f4.php 第 35 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029060s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029203s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001589s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001726s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003886s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004071s ]
+
+[ 2016-09-12T16:08:26+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003598s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003208s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003463s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000192s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000461s ]
+NOTIC: [8] Undefined variable: username E:\phpWebs\shop\Application\Runtime\Cache\admin\0dfec61edd66f450033aa87c28a760f4.php 第 35 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034133s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034314s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002032s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002162s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002854s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003033s ]
+
+[ 2016-09-12T16:08:27+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/Login/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001913s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011092s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000195s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000437s ]
+NOTIC: [8] Undefined variable: username E:\phpWebs\shop\Application\Runtime\Cache\admin\d975219b368de83798d12245b6d6d52f.php 第 35 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.042621s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042848s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001357s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001545s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002968s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003179s ]
+
+[ 2016-09-12T16:09:03+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001781s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003608s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004375s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000446s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000789s ]
+NOTIC: [8] Undefined variable: username E:\phpWebs\shop\Application\Runtime\Cache\admin\0dfec61edd66f450033aa87c28a760f4.php 第 35 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028163s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028332s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001614s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001737s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002519s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002639s ]
+
+[ 2016-09-12T16:09:04+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/index.php/Amdin/Login/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000154s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002371s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002679s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002885s ]
+ERR: 非法操作:index.php
+
+[ 2016-09-12T16:09:34+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002986s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004665s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004904s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000122s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000292s ]
+NOTIC: [8] Undefined variable: username E:\phpWebs\shop\Application\Runtime\Cache\admin\0dfec61edd66f450033aa87c28a760f4.php 第 35 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028928s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029079s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002741s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002908s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002657s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002784s ]
+
+[ 2016-09-12T16:09:34+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001265s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002750s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002949s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002932s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003193s ]
+
+[ 2016-09-12T16:10:11+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003234s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002993s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003165s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000114s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000268s ]
+NOTIC: [8] Undefined variable: username E:\phpWebs\shop\Application\Runtime\Cache\admin\0dfec61edd66f450033aa87c28a760f4.php 第 35 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027757s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027910s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001613s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001734s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002542s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002669s ]
+
+[ 2016-09-12T16:10:12+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003088s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003751s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004021s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003033s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003312s ]
+
+[ 2016-09-12T16:10:13+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001298s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001875s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002021s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001952s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002112s ]
+
+[ 2016-09-12T16:10:14+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001843s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002922s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003168s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002044s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002215s ]
+
+[ 2016-09-12T16:10:15+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001295s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001861s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002589s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002811s ]
+
+[ 2016-09-12T16:23:14+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002008s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005355s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000170s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000411s ]
+NOTIC: [8] Undefined variable: username E:\phpWebs\shop\Application\Runtime\Cache\admin\0dfec61edd66f450033aa87c28a760f4.php 第 35 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036111s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036317s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002493s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002693s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003893s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004103s ]
+
+[ 2016-09-12T16:23:14+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001906s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004622s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004889s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002909s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003163s ]
+
+[ 2016-09-12T16:25:23+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001960s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003495s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003729s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000112s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000288s ]
+NOTIC: [8] Undefined variable: username E:\phpWebs\shop\Application\Runtime\Cache\admin\0dfec61edd66f450033aa87c28a760f4.php 第 35 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.043788s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044026s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001843s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001984s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003624s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003842s ]
+
+[ 2016-09-12T16:25:23+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002341s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003577s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003831s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002932s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003159s ]
+
+[ 2016-09-12T16:25:35+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/checkIn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001873s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003052s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003261s ]
+
+[ 2016-09-12T16:35:36+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001715s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003589s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003758s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000112s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000267s ]
+NOTIC: [8] Undefined variable: username E:\phpWebs\shop\Application\Runtime\Cache\admin\0dfec61edd66f450033aa87c28a760f4.php 第 35 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035519s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035676s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002461s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002609s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003240s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003427s ]
+
+[ 2016-09-12T16:35:36+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003375s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005577s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005479s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005758s ]
+
+[ 2016-09-12T16:41:37+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/checkIn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001748s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003861s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004032s ]
+
+[ 2016-09-12T16:44:57+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/checkIn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001749s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005214s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005433s ]
+NOTIC: [8] Use of undefined constant ADMIN_TEMP - assumed 'ADMIN_TEMP' E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+NOTIC: [2] include_once(ADMIN_TEMP/redirect.html): failed to open stream: No such file or directory E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+NOTIC: [2] include_once(): Failed opening 'ADMIN_TEMP/redirect.html' for inclusion (include_path='.;C:\php\pear') E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+
+[ 2016-09-12T16:45:00+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/checkIn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002214s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003228s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003434s ]
+NOTIC: [8] Use of undefined constant ADMIN_TEMP - assumed 'ADMIN_TEMP' E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+NOTIC: [2] include_once(ADMIN_TEMP/redirect.html): failed to open stream: No such file or directory E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+NOTIC: [2] include_once(): Failed opening 'ADMIN_TEMP/redirect.html' for inclusion (include_path='.;C:\php\pear') E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+
+[ 2016-09-12T16:45:52+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/checkIn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001748s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004988s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005263s ]
+NOTIC: [8] Use of undefined constant ADMIN_TEMP - assumed 'ADMIN_TEMP' E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+NOTIC: [2] include_once(ADMIN_TEMP/redirect.html): failed to open stream: No such file or directory E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+NOTIC: [2] include_once(): Failed opening 'ADMIN_TEMP/redirect.html' for inclusion (include_path='.;C:\php\pear') E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+
+[ 2016-09-12T16:46:20+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/checkIn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001690s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003944s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004121s ]
+NOTIC: [8] Use of undefined constant ADMIN_TEMP - assumed 'ADMIN_TEMP' E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+NOTIC: [2] include_once(ADMIN_TEMP/redirect.html): failed to open stream: No such file or directory E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+NOTIC: [2] include_once(): Failed opening 'ADMIN_TEMP/redirect.html' for inclusion (include_path='.;C:\php\pear') E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+
+[ 2016-09-12T16:46:47+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/checkIn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001815s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004315s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004540s ]
+NOTIC: [8] Use of undefined constant ADMIN_TEMP - assumed 'ADMIN_TEMP' E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+NOTIC: [2] include_once(ADMIN_TEMP/redirect.html): failed to open stream: No such file or directory E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+NOTIC: [2] include_once(): Failed opening 'ADMIN_TEMP/redirect.html' for inclusion (include_path='.;C:\php\pear') E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+
+[ 2016-09-12T16:47:46+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/checkIn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001685s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003872s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004056s ]
+NOTIC: [8] Use of undefined constant ADMIN_TEMP - assumed 'ADMIN_TEMP' E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+NOTIC: [2] include_once(ADMIN_TEMP/redirect.html): failed to open stream: No such file or directory E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+NOTIC: [2] include_once(): Failed opening 'ADMIN_TEMP/redirect.html' for inclusion (include_path='.;C:\php\pear') E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+
+[ 2016-09-12T16:47:48+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/checkIn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001710s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003888s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004137s ]
+NOTIC: [8] Use of undefined constant ADMIN_TEMP - assumed 'ADMIN_TEMP' E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+NOTIC: [2] include_once(ADMIN_TEMP/redirect.html): failed to open stream: No such file or directory E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+NOTIC: [2] include_once(): Failed opening 'ADMIN_TEMP/redirect.html' for inclusion (include_path='.;C:\php\pear') E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+
+[ 2016-09-12T16:48:15+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/checkIn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001694s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003175s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003341s ]
+NOTIC: [8] Use of undefined constant ADMIN_TEMP - assumed 'ADMIN_TEMP' E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+NOTIC: [2] include_once(ADMIN_TEMP/redirect.html): failed to open stream: No such file or directory E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+NOTIC: [2] include_once(): Failed opening 'ADMIN_TEMP/redirect.html' for inclusion (include_path='.;C:\php\pear') E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+
+[ 2016-09-12T16:48:19+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/checkIn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002647s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004198s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004440s ]
+NOTIC: [8] Use of undefined constant ADMIN_TEMP - assumed 'ADMIN_TEMP' E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+NOTIC: [2] include_once(ADMIN_TEMP/redirect.html): failed to open stream: No such file or directory E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+NOTIC: [2] include_once(): Failed opening 'ADMIN_TEMP/redirect.html' for inclusion (include_path='.;C:\php\pear') E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+
+[ 2016-09-12T16:48:25+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002616s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004545s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004748s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000112s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000268s ]
+NOTIC: [8] Undefined variable: username E:\phpWebs\shop\Application\Runtime\Cache\admin\0dfec61edd66f450033aa87c28a760f4.php 第 35 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031830s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031987s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002186s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002309s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003114s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003242s ]
+
+[ 2016-09-12T16:48:26+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002801s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005633s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007268s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007537s ]
+
+[ 2016-09-12T16:53:38+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/checkIn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001710s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003192s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003357s ]
+
+[ 2016-09-12T16:53:38+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001681s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003746s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004022s ]
+
+[ 2016-09-12T16:53:38+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001733s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003526s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003868s ]
+
+[ 2016-09-12T16:53:46+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002848s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002790s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002937s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000114s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000273s ]
+NOTIC: [8] Undefined variable: username E:\phpWebs\shop\Application\Runtime\Cache\admin\0dfec61edd66f450033aa87c28a760f4.php 第 35 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027583s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027735s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002064s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002223s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002719s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002850s ]
+
+[ 2016-09-12T16:53:46+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001325s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001916s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002070s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002355s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002592s ]
+
+[ 2016-09-12T16:54:05+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/checkIn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001478s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003113s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003378s ]
+SQL: SHOW COLUMNS FROM `ecs_admin` [ RunTime:0.0157s ]
+
+[ 2016-09-12T16:54:23+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/checkIn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000108s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002323s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003256s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003435s ]
+NOTIC: [8] Use of undefined constant ADMIN_TEMP - assumed 'ADMIN_TEMP' E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+NOTIC: [2] include_once(ADMIN_TEMP/redirect.html): failed to open stream: No such file or directory E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+NOTIC: [2] include_once(): Failed opening 'ADMIN_TEMP/redirect.html' for inclusion (include_path='.;C:\php\pear') E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+
+[ 2016-09-12T16:54:52+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/checkIn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001986s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002914s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003083s ]
+NOTIC: [8] Use of undefined constant ADMIN_TEMP - assumed 'ADMIN_TEMP' E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+NOTIC: [2] include_once(ADMIN_TEMP/redirect.html): failed to open stream: No such file or directory E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+NOTIC: [2] include_once(): Failed opening 'ADMIN_TEMP/redirect.html' for inclusion (include_path='.;C:\php\pear') E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+
+[ 2016-09-12T16:54:55+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/checkIn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001832s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002808s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003004s ]
+NOTIC: [8] Use of undefined constant ADMIN_TEMP - assumed 'ADMIN_TEMP' E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+NOTIC: [2] include_once(ADMIN_TEMP/redirect.html): failed to open stream: No such file or directory E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+NOTIC: [2] include_once(): Failed opening 'ADMIN_TEMP/redirect.html' for inclusion (include_path='.;C:\php\pear') E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+
+[ 2016-09-12T16:55:15+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/checkIn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002595s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003194s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003366s ]
+NOTIC: [8] Use of undefined constant ADMIN_TEMP - assumed 'ADMIN_TEMP' E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+NOTIC: [2] include_once(ADMIN_TEMP/redirect.html): failed to open stream: No such file or directory E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+NOTIC: [2] include_once(): Failed opening 'ADMIN_TEMP/redirect.html' for inclusion (include_path='.;C:\php\pear') E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+
+[ 2016-09-12T16:55:23+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001714s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002831s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000120s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000279s ]
+NOTIC: [8] Undefined variable: username E:\phpWebs\shop\Application\Runtime\Cache\admin\0dfec61edd66f450033aa87c28a760f4.php 第 35 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027870s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028020s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001712s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001854s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002971s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003166s ]
+
+[ 2016-09-12T16:55:23+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002029s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002300s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002501s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002046s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002207s ]
+
+[ 2016-09-12T16:55:36+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/checkIn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002767s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002526s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002738s ]
+SQL: SHOW COLUMNS FROM `ecs_admin` [ RunTime:0.0147s ]
+
+[ 2016-09-12T16:56:28+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001792s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004945s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005211s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000117s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000283s ]
+NOTIC: [8] Undefined variable: username E:\phpWebs\shop\Application\Runtime\Cache\admin\0dfec61edd66f450033aa87c28a760f4.php 第 35 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033414s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033566s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002230s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002364s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003372s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003534s ]
+
+[ 2016-09-12T16:56:28+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001852s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003501s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004588s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004821s ]
+
+[ 2016-09-12T16:56:34+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001365s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002556s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001962s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002119s ]
+
+[ 2016-09-12T16:56:35+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001544s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001941s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002119s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002189s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002396s ]
+
+[ 2016-09-12T16:56:38+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001320s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002222s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002402s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001968s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002119s ]
+
+[ 2016-09-12T16:56:40+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001824s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001969s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002309s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002497s ]
+
+[ 2016-09-12T16:56:40+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001326s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001848s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002029s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001910s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002060s ]
+
+[ 2016-09-12T16:56:49+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/checkIn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001382s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001883s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002052s ]
+SQL: SHOW COLUMNS FROM `ecs_admin` [ RunTime:0.0147s ]
+
+[ 2016-09-12T17:08:04+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001823s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003791s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004090s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000116s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000281s ]
+NOTIC: [8] Undefined variable: username E:\phpWebs\shop\Application\Runtime\Cache\admin\0dfec61edd66f450033aa87c28a760f4.php 第 35 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032008s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032163s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002243s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002361s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003175s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003300s ]
+
+[ 2016-09-12T17:08:04+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001938s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004557s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004877s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003439s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003608s ]
+
+[ 2016-09-12T17:08:23+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/checkIn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003930s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004202s ]
+SQL: SHOW COLUMNS FROM `ecs_admin` [ RunTime:0.0169s ]
+
+[ 2016-09-12T17:08:36+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/checkIn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001389s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002497s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002678s ]
+NOTIC: [8] Use of undefined constant ADMIN_TEMP - assumed 'ADMIN_TEMP' E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+NOTIC: [2] include_once(ADMIN_TEMP/redirect.html): failed to open stream: No such file or directory E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+NOTIC: [2] include_once(): Failed opening 'ADMIN_TEMP/redirect.html' for inclusion (include_path='.;C:\php\pear') E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+
+[ 2016-09-12T17:08:39+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002269s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004707s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004961s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000131s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000333s ]
+NOTIC: [8] Undefined variable: username E:\phpWebs\shop\Application\Runtime\Cache\admin\0dfec61edd66f450033aa87c28a760f4.php 第 35 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040514s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040667s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001584s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001712s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002624s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002749s ]
+
+[ 2016-09-12T17:08:39+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003222s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003557s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003811s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002105s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002287s ]
+
+[ 2016-09-12T17:08:52+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/checkIn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002176s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004716s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004970s ]
+SQL: SHOW COLUMNS FROM `ecs_admin` [ RunTime:0.0170s ]
+
+[ 2016-09-12T17:09:14+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001332s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001991s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002149s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000120s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000299s ]
+NOTIC: [8] Undefined variable: username E:\phpWebs\shop\Application\Runtime\Cache\admin\0dfec61edd66f450033aa87c28a760f4.php 第 35 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026849s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027023s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002487s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002658s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003617s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003844s ]
+
+[ 2016-09-12T17:09:15+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002199s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001893s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002071s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002866s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003082s ]
+
+[ 2016-09-12T17:09:26+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/checkIn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001350s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002511s ]
+SQL: SHOW COLUMNS FROM `ecs_admin` [ RunTime:0.0163s ]
+
+[ 2016-09-12T17:10:33+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001734s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003167s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003359s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000145s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000309s ]
+NOTIC: [8] Undefined variable: username E:\phpWebs\shop\Application\Runtime\Cache\Admin\0dfec61edd66f450033aa87c28a760f4.php 第 35 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030453s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030628s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001110s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001228s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001951s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002075s ]
+
+[ 2016-09-12T17:10:33+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001395s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003545s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003715s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002646s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002839s ]
+
+[ 2016-09-12T17:10:39+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001596s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003062s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003241s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002912s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003098s ]
+
+[ 2016-09-12T17:10:50+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/checkIn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001412s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001878s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002024s ]
+SQL: SHOW COLUMNS FROM `ecs_admin` [ RunTime:0.0153s ]
+
+[ 2016-09-12T17:12:31+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001686s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002821s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003397s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000113s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000275s ]
+NOTIC: [8] Undefined variable: username E:\phpWebs\shop\Application\Runtime\Cache\Admin\0dfec61edd66f450033aa87c28a760f4.php 第 35 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028678s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028825s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001605s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001720s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002527s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002654s ]
+
+[ 2016-09-12T17:12:32+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000121s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002009s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001961s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002124s ]
+
+[ 2016-09-12T17:12:46+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002399s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003150s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003312s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000113s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000276s ]
+NOTIC: [8] Undefined variable: username E:\phpWebs\shop\Application\Runtime\Cache\Admin\0dfec61edd66f450033aa87c28a760f4.php 第 35 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030807s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030976s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001841s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001964s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002555s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002687s ]
+
+[ 2016-09-12T17:12:46+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002094s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002642s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002816s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002193s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002410s ]
+
+[ 2016-09-12T17:15:14+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001740s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004331s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004569s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000115s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000280s ]
+NOTIC: [8] Undefined variable: username E:\phpWebs\shop\Application\Runtime\Cache\Admin\0dfec61edd66f450033aa87c28a760f4.php 第 35 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034404s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034565s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002188s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002304s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003527s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003701s ]
+
+[ 2016-09-12T17:15:14+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002457s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003138s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003357s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003407s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003580s ]
+
+[ 2016-09-12T17:15:24+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/checkIn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002185s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003305s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003488s ]
+SQL: SHOW COLUMNS FROM `ecs_admin` [ RunTime:0.0701s ]
+
+[ 2016-09-12T17:15:54+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001827s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004579s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000113s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000274s ]
+NOTIC: [8] Undefined variable: username E:\phpWebs\shop\Application\Runtime\Cache\Admin\0dfec61edd66f450033aa87c28a760f4.php 第 35 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036498s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036649s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002301s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002442s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003400s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003542s ]
+
+[ 2016-09-12T17:15:55+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000199s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003211s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003326s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003527s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007232s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007510s ]
+
+[ 2016-09-12T17:16:06+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/checkIn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001702s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004645s ]
+SQL: SHOW COLUMNS FROM `ecs_admin` [ RunTime:0.0152s ]
+
+[ 2016-09-12T17:17:35+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001878s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005535s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000116s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000275s ]
+NOTIC: [8] Undefined variable: username E:\phpWebs\shop\Application\Runtime\Cache\Admin\0dfec61edd66f450033aa87c28a760f4.php 第 35 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036583s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036749s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002254s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002405s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004753s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005080s ]
+
+[ 2016-09-12T17:17:36+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002113s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002918s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003081s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003258s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003434s ]
+
+[ 2016-09-12T17:17:46+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/checkIn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001985s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002952s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003131s ]
+SQL: SHOW COLUMNS FROM `ecs_admin` [ RunTime:0.0160s ]
+NOTIC: [4096] Object of class Think\Model could not be converted to string E:\phpWebs\shop\Application\Admin\Controller\LoginController.class.php 第 55 行.
+
+[ 2016-09-12T17:18:18+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001698s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002885s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003048s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000113s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000266s ]
+NOTIC: [8] Undefined variable: username E:\phpWebs\shop\Application\Runtime\Cache\Admin\0dfec61edd66f450033aa87c28a760f4.php 第 35 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026809s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026951s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001534s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001669s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002786s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002929s ]
+
+[ 2016-09-12T17:18:18+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002863s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002844s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003063s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002153s ]
+
+[ 2016-09-12T17:18:35+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/checkIn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001396s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001980s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002142s ]
+SQL: SHOW COLUMNS FROM `ecs_admin` [ RunTime:0.0151s ]
+NOTIC: [4096] Object of class Think\Model could not be converted to string E:\phpWebs\shop\Application\Admin\Controller\LoginController.class.php 第 56 行.
+
+[ 2016-09-12T17:19:39+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000589s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000635s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000085s ]
+NOTIC: [8] Undefined variable: username E:\phpWebs\shop\Application\Runtime\Cache\Admin\0dfec61edd66f450033aa87c28a760f4.php 第 35 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007770s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007816s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000526s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000567s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000932s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000981s ]
+
+[ 2016-09-12T17:19:40+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000760s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001149s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001274s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002468s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002709s ]
+
+[ 2016-09-12T17:19:48+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/checkIn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001559s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001630s ]
+SQL: SHOW COLUMNS FROM `ecs_admin` [ RunTime:0.0049s ]
+NOTIC: [4096] Object of class Think\Model could not be converted to string E:\phpWebs\shop\Application\Admin\Controller\LoginController.class.php 第 56 行.
+
+[ 2016-09-12T17:20:22+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000605s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001105s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001160s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000091s ]
+NOTIC: [8] Undefined variable: username E:\phpWebs\shop\Application\Runtime\Cache\Admin\0dfec61edd66f450033aa87c28a760f4.php 第 35 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009764s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009808s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000752s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000800s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001049s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001097s ]
+
+[ 2016-09-12T17:20:22+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000897s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001627s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001763s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002020s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002126s ]
+
+[ 2016-09-12T17:20:37+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/checkIn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001820s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003012s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003187s ]
+SQL: SHOW COLUMNS FROM `ecs_admin` [ RunTime:0.0156s ]
+
+[ 2016-09-12T21:29:05+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/checkIn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001518s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001588s ]
+NOTIC: [8] Use of undefined constant ADMIN_TEMP - assumed 'ADMIN_TEMP' E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+NOTIC: [2] include_once(ADMIN_TEMP/redirect.html): failed to open stream: No such file or directory E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+NOTIC: [2] include_once(): Failed opening 'ADMIN_TEMP/redirect.html' for inclusion (include_path='.;C:\php\pear') E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+
+[ 2016-09-12T21:29:07+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/checkIn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001052s ]
+NOTIC: [8] Use of undefined constant ADMIN_TEMP - assumed 'ADMIN_TEMP' E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+NOTIC: [2] include_once(ADMIN_TEMP/redirect.html): failed to open stream: No such file or directory E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+NOTIC: [2] include_once(): Failed opening 'ADMIN_TEMP/redirect.html' for inclusion (include_path='.;C:\php\pear') E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+
+[ 2016-09-12T21:29:19+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000598s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001115s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001165s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000160s ]
+NOTIC: [8] Undefined variable: username E:\phpWebs\shop\Application\Runtime\Cache\Admin\0dfec61edd66f450033aa87c28a760f4.php 第 35 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.366174s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.366233s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.089243s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.089302s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001785s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001835s ]
+
+[ 2016-09-12T21:29:19+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001078s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001293s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001381s ]
+
+[ 2016-09-12T21:29:30+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/checkIn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001567s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001660s ]
+SQL: SHOW COLUMNS FROM `ecs_admin` [ RunTime:0.0704s ]
+NOTIC: [4096] Object of class Think\Model could not be converted to string E:\phpWebs\shop\Application\Admin\Controller\LoginController.class.php 第 56 行.
+
+[ 2016-09-12T21:42:16+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/checkIn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002386s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005077s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005326s ]
+NOTIC: [8] Use of undefined constant ADMIN_TEMP - assumed 'ADMIN_TEMP' E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+NOTIC: [2] include_once(ADMIN_TEMP/redirect.html): failed to open stream: No such file or directory E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+NOTIC: [2] include_once(): Failed opening 'ADMIN_TEMP/redirect.html' for inclusion (include_path='.;C:\php\pear') E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+
+[ 2016-09-12T21:42:25+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002385s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003731s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000116s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000280s ]
+NOTIC: [8] Undefined variable: username E:\phpWebs\shop\Application\Runtime\Cache\Admin\0dfec61edd66f450033aa87c28a760f4.php 第 35 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035678s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035871s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003190s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003362s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003308s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003457s ]
+
+[ 2016-09-12T21:42:25+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002366s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004409s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004621s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004021s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004240s ]
+
+[ 2016-09-12T21:42:42+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/checkIn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002496s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003244s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003421s ]
+SQL: SHOW COLUMNS FROM `ecs_admin` [ RunTime:0.0164s ]
+NOTIC: [4096] Object of class Think\Model could not be converted to string E:\phpWebs\shop\Application\Admin\Controller\LoginController.class.php 第 56 行.
+
+[ 2016-09-12T21:42:58+08:00 ] 127.0.0.1 /shop/index.php/Admin/Login/checkIn
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001291s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002541s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002762s ]
+NOTIC: [8] Use of undefined constant ADMIN_TEMP - assumed 'ADMIN_TEMP' E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+NOTIC: [2] include_once(ADMIN_TEMP/redirect.html): failed to open stream: No such file or directory E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+NOTIC: [2] include_once(): Failed opening 'ADMIN_TEMP/redirect.html' for inclusion (include_path='.;C:\php\pear') E:\phpWebs\shop\Application\Admin\Common\functions.php 第 7 行.
+
